@@ -15,6 +15,7 @@ Original file is located at
 
 print("Terminal de operacoes hHh alterei aqui\n")
 print("Adicionei aqui\n")
+print("kkkk")
 contas=[]
 def listar_contas():
   if contas:
